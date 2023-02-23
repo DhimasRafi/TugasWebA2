@@ -1,0 +1,40 @@
+<html>
+<head>
+    <title>ini apa?</title>
+</head>
+<body 
+    style=
+    "background-color: gray;">
+    <h1 
+        style=
+        "color: rgb(47, 0, 255);
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+        background-color: rgb(255, 136, 127);
+        text-align: center;">MAAF COBA LAGI
+    </h1>
+    <h4 
+        style=
+        "font-size: larger; 
+        border-style: dashed; border-color: rgb(255, 213, 0);
+        ">Balik bang...
+    </h4>
+    <p 
+        style=
+        "color: rgb(255, 234, 0);
+        font-family: 'Times New Roman', Times, serif; 
+        font-style: italic;
+        ">Ini cuma web tugas jangan berharap banyak :p
+    </p>
+    <img 
+        src="830180.png" 
+        style="height: 1080px; width: 1280px;"
+    />
+    <video 
+        width="480"
+        controls src="Dari mana duitnya- (Ustadz Yusuf Mansur).mp4" >
+    </video>
+    <audio 
+        controls src="Trash Taste BGM.mp3">
+    </audio>
+</body>
+</html>
